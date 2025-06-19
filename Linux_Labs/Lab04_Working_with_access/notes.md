@@ -7,3 +7,6 @@
 ```bash
 echo "Top secret data" > ~/secret.txt
 ```
+
+![echo](images/echo)
+
